@@ -1,0 +1,5 @@
+RAG stands for Retrieval-Augmented Generation. It combines information retrieval 
+with a language model. The retriever fetches relevant documents from a database or corpus, 
+and the language model generates answers based on the retrieved documents. 
+RAG helps reduce hallucinations in generated content and is widely used in chatbots, 
+Q&A systems, and knowledge assistants.

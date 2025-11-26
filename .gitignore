@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environment
+.venv/
+uv.lock
+
+# Environment variables
+.env
+
+# FAISS index & metadata
+faiss_store/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

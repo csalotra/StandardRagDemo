@@ -1,0 +1,6 @@
+Machine Learning (ML) is a subset of Artificial Intelligence (AI) 
+that enables systems to learn from data and improve over time without being explicitly programmed. 
+It involves training algorithms on historical data to make predictions or decisions. 
+ML techniques include supervised learning, unsupervised learning, and reinforcement learning. 
+Applications of ML are widespread, including image recognition, natural language processing, 
+recommendation systems, and autonomous vehicles.
